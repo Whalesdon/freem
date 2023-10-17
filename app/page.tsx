@@ -43,7 +43,7 @@ export default function Home() {
                   </g>
                 </g>
               </svg>
-              <p>MetaMask</p>
+              <p>WalletConnect</p>
             </a>
           </div>
 
